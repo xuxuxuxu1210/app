@@ -1,0 +1,34 @@
+{
+    "auot": [
+      {
+        "img":"./img/ranking-3.png" ,
+        "title": "1.生命流-HyperGryph",
+        "title_1": "2.Birds-Imagine Dragons/Elisa",
+        "title_2":"3.我的名字-焦迈奇"
+      },
+      {
+        "img":"./img/ranking-4.png" ,
+        "title": "1.You Need To Caim Down-Ta...",
+        "title_1": "2.祝你爱我到天荒地老-颜人中/...",
+        "title_2":"3.孤身-徐秉龙"
+      },
+      {
+        "img":"./img/ranking-6.png" ,
+        "title": "1.来自天堂的魔鬼-G.E.M.邓紫棋",
+        "title_1": "2.Birds-Imagine Dragons/Elisa",
+        "title_2":"3.我的名字-焦迈奇"
+      },
+      {
+        "img":"./img/ranking-6.png" ,
+        "title": "1.暖一杯茶-解忧少帅",
+        "title_1": "2.你们俩-陈鸿宇",
+        "title_2":"3.庸人-刘莱斯"
+      },
+      {
+        "img":"./img/ranking-7.png" ,
+        "title": "1.Dip Out-范丞丞",
+        "title_1": "2.生活该有的样子-A-Lin/王晰",
+        "title_2":"3.那就这样吧-蔡程昱"
+      }
+      ]
+    }
